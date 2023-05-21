@@ -25,12 +25,6 @@ Training Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
   </a>
 
 <h4><img src="Images/Luke.png" alt="Avatar" align="center" width="60"> Luke Shirley - Quantitative Researcher</h4>
-
-- Twitter:<a href="https://twitter.com/lukeshirleyx">
-    <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
-  </a>
-- GitHub:<a href="https://github.com/Lukeshirleyx">
-    <img alt="GitHub: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
   </a>
 ## 📝 License
 This project is [MIT] licensed.
