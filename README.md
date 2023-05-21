@@ -8,7 +8,7 @@
   </a>
 </p>
 
-A **Sentiment analysis** refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. `Stock Market Sentiment Analysis with Neural Networks` is a LSTM (Long Short Term) artificial recurrent neural network architecture used in the field of deep learning. 
+A **Sentiment analysis** refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. 
 
 <h4 align="center"><img src="Images/LSTM.png" width="800" align="center"></h4>
 
