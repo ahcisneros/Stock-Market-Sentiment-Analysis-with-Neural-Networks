@@ -1,7 +1,6 @@
 <h1 align="center">Stock Market Sentiment Analysis with Neural Networks</h1>
 <h1 align="center"><img src="Images/sentiment.png" width="300" align="center"></h1>
 <p align="center">  
-    <img alt="python" src="https://img.shields.io/pypi/pyversions/pandas" target="_blank" />
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/plutus21cap">
