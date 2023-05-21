@@ -1,4 +1,4 @@
-<h1 align="center">Sentiment Analysis</h1>
+<h1 align="center">Stock Market Sentiment Analysis with Neural Networks</h1>
 <h1 align="center"><img src="Images/sentiment.png" width="300" align="center"></h1>
 <p align="center">  
     <img alt="progress" src="https://img.shields.io/badge/Model-In_Progress-yellow" target="_blank" />
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-A **Sentiment analysis** refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. `Twitter-LSTM-Sentiment-Anaysis` is a LSTM (Long Short Term) artificial recurrent neural network architecture used in the field of deep learning. 
+A **Sentiment analysis** refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. `Stock Market Sentiment Analysis with Neural Networks` is a LSTM (Long Short Term) artificial recurrent neural network architecture used in the field of deep learning. 
 
 <h4 align="center"><img src="Images/LSTM.png" width="800" align="center"></h4>
 
