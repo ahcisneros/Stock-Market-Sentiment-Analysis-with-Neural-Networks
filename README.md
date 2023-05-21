@@ -13,7 +13,9 @@ A **Sentiment analysis** refers to the use of natural language processing, text 
 
 <h4 align="center"><img src="Images/LSTM.png" width="800" align="center"></h4>
 
-Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data. We are attempting to derive emotions from tweets regarding assets in our portfolio. Find out more about our fund, <a href="https://www.plutus21.com/">Plutus21 Capital</a>.
+Unlike standard feedforward neural networks, LSTM has feedback connections. It can process not only single data points but also entire data sequences. We derived emotions from qualitative data regarding assets in our portfolio. Find out more about our fund, <a href="https://www.plutus21.com/">Plutus21 Capital</a>.
+
+Training Dataset:https://www.kaggle.com/datasets/kazanova/sentiment140
 
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
 
