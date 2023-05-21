@@ -32,12 +32,6 @@ Training Dataset:https://www.kaggle.com/datasets/kazanova/sentiment140
 - GitHub:<a href="https://github.com/Lukeshirleyx">
     <img alt="GitHub: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
   </a>
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome.<br />
-[Check the contributing guide](Contributing.md).<br />
-
 ## 📝 License
 This project is [MIT] licensed.
 
