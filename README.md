@@ -39,7 +39,5 @@ Contributions, issues and feature requests are welcome.<br />
 [Check the contributing guide](Contributing.md).<br />
 
 ## 📝 License
-
-Copyright © 2019 [Luke Shirley](https://github.com/Lukeshirleyx).<br />
 This project is [MIT] licensed.
 
