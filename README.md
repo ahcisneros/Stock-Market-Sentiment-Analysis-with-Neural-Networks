@@ -18,7 +18,7 @@ Training Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
 
-<h4><img src="Images/Alexis_New.jpg" alt="Avatar" align="center" width="60"> Alexis Cisneros - Project Lead/Quantitative Researcher</h4>
+<h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Alexis Cisneros - Project Lead/Quantitative Researcher</h4>
 
 - GitHub:<a href="https://github.com/Ahcisneros">
     <img alt="GitHub: Ahcisneros" src="https://img.shields.io/github/followers/Ahcisneros?style=social" target="_blank" align="center" />
